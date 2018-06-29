@@ -1,5 +1,6 @@
-# vuescrollvideo
-
+# VueScrollVideo
+### 这是效果图(gif)
+![image](https://github.com/94007boy/VueScrollVideo/tree/master/static/gif_20180629_164219.gif)
 ## 实现了如下功能：
 ### 1.基于vue-video-player 播放流媒体
 ### 2.播放控制：滑出屏幕暂停，滑入屏幕重新播放
