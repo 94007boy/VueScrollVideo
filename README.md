@@ -1,6 +1,10 @@
 # vuescrollvideo
 
-> A Vue.js project
+> 实现了如下功能：
+1.基于vue-video-player 播放流媒体
+2.播放控制：滑出屏幕暂停，滑入屏幕重新播放
+3.基于vue-bus 进行组件间的通信
+4.一个标准的富文本排版
 
 ## Build Setup
 
